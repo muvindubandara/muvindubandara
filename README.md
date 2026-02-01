@@ -4,6 +4,10 @@
 
 ###
 
+<p align="center"><a href="https://github.com/muvindubandara"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Muvindu+Bandara%F0%9F%91%8B;" alt="Typing SVG" /></a></p>
+
+<div align="center">
+
 <div align="center">
   <img height="10" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
@@ -32,11 +36,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muvindubandara.muvindubandara&"  />
 </div>
 
-###
 
-<h1 align="center">Hey, I'm Muvindu Bandara👋</h1>
-
-###
 
 <br clear="both">
 
@@ -111,6 +111,21 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div>
+
+###
+
+<h3 align="center">⚙️ &nbsp;GitHub Analytics
+
+###
+
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muvindubandara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muvindubandara&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ###
 
