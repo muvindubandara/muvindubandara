@@ -121,11 +121,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muvindubandara&count_private=true&theme=radical" alt="muvindubandara" />
 
 
-## 💻 Most Used Languages
 
-![Metrics](https://raw.githubusercontent.com/muvindubandara/muvindubandara/main/github-metrics.svg)
 
-<br clear="both">
+
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=%7C%20MUVIIIX%20%7C&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
