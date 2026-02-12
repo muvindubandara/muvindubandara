@@ -118,14 +118,16 @@
 
 ###
 
-<p align="center">
-  <a href="https://github.com/muvindubandara">
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muvindubandara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/muvindubandara">
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muvindubandara&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+// Source - https://stackoverflow.com/q/70073951
+// Posted by user17458330, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-02-12, License - CC BY-SA 4.0
+
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=muvindubandara&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muvindubandara&theme=radical&layout=compact" />
+</div>
+
 
 ###
 
