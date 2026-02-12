@@ -121,6 +121,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muvindubandara&count_private=true&theme=radical" alt="muvindubandara" />
 ## 
 
+## 💻 Most Used Languages
+
+![Metrics](https://raw.githubusercontent.com/muvindubandara/muvindubandara/main/github-metrics.svg)
+
 <br clear="both">
 
 <div>
